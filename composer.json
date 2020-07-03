@@ -1,4 +1,5 @@
 {
+    "abandoned": "monthly-basis/laminas-test",
     "name": "leo-galleguillos/test",
     "license": "MIT",
     "require": {
